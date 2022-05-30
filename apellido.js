@@ -1,2 +1,2 @@
 console.log("fakhrji")
-console.log("35")
+console.log(" edad = 35")
