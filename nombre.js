@@ -1,3 +1,6 @@
 console.log("wael")
 console.log("walter")
 console.log("juan")
+console.log("Sebastian")
+console.log("6")
+console.log("juan")
